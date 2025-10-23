@@ -1,16 +1,46 @@
-## Hi there 👋
+## Hi there 👋 I'm Mohammad Tabseer!
 
-<!--
-**tabseer03/tabseer03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science and Engineering student** at **NIT Delhi**  
+💡 Passionate about **software development**, **machine learning**, and **building impactful tech solutions**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 I’m currently working on projects involving **Python, Java, and AI-based systems**
+- 🌱 I’m currently learning **Full-Stack Development** and **Machine Learning**
+- 👯 I’m looking to collaborate on **open-source software** and **AI-driven projects**
+- 💬 Ask me about **Data Structures, Algorithms, Web Development, and Machine Learning**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/mohammad-tabseer)** | **[Email](mailto:your.email@example.com)**  
+- ⚡ Fun fact: I love exploring how AI can make law and technology more accessible!
+
+---
+
+### 🛠️ Languages and Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?logo=visualstudiocode&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Tabseer's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabseer03&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tabseer03&layout=compact&theme=tokyonight)
+
+---
+
+### 🌐 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-Mohammad%20Tabseer-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-tabseer)
+[![Email](https://img.shields.io/badge/-Email%20Me-red?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/-tabseer03-black?logo=github&logoColor=white)](https://github.com/tabseer03)
+
+---
+
+⭐️ *“Code. Learn. Build. Repeat.”*
