@@ -7,9 +7,9 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on projects involving **Python, Java, and AI-based systems**
-- 🌱 I’m currently learning **Full-Stack Development** and **Machine Learning**
+- 🌱 I’m currently learning **Software Engineering** and **Machine Learning**
 - 👯 I’m looking to collaborate on **open-source software** and **AI-driven projects**
-- 💬 Ask me about **Data Structures, Algorithms, Web Development, and Machine Learning**
+- 💬 Ask me about **Data Structures, Algorithms, and Machine Learning**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/mohammad-tabseer)** | **[Email](mailto:tabseer03@gmail.com)**  
 - ⚡ I love exploring how AI can make law and technology more accessible!
 
